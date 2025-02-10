@@ -9,7 +9,7 @@ h1{
 }
 .box{
     width:900px;
-    border:5px solid rgb(255, 0, 225);
+    border:5px solid rgb(72, 75, 161);
     text-align: center;
 
 }
@@ -39,7 +39,7 @@ margin:0.4px;
 }
 
 .parent{
-    background-color:pink;
+    background-color:rgb(230, 173, 218);
     display:flex;
     width:1000px;
     margin:20px;
